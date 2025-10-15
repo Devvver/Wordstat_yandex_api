@@ -3,7 +3,7 @@
 
 # Yandex Wordstat Parser
 
-[![Телеграм канал с скриптами на Python для SEO, иструкция по установке скрипта]([https://t.me/python_seo/43)]([https://streamlit.io/](https://t.me/python_seo/43)](https://t.me/python_seo/43))
+Подробная инструкция по установке скрипта: [Telegram: Python для SEO](https://t.me/python_seo/43)
 
 ## 📖 Описание
 
@@ -25,7 +25,7 @@
 ## 🛠 Установка
 
 1. Установите: `pip install streamlit requests pandas openpyxl`
-2. Укажите токен  (получите по [инструкции]([[https://yandex.ru/support2/wordstat/ru/content/api-wordstat](https://e-moldovanu.com/programmirovanie/rukovodstvo-api-wordstat/)](https://e-moldovanu.com/programmirovanie/rukovodstvo-api-wordstat/))).
+2. Укажите токен  (получите по [инструкции] (https://e-moldovanu.com/programmirovanie/rukovodstvo-api-wordstat/)](https://e-moldovanu.com/programmirovanie/rukovodstvo-api-wordstat/))).
 4. Запустите: `streamlit run app.py`
 
 ## 📱 Использование
